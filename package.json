@@ -1,0 +1,19 @@
+{
+    "name": "timedropper",
+    "version": "1.0.0",
+    "description": "timedropper jQuery time plugin.",
+    "main": "timedropper.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/felicegatusso/timedropper.git"
+    },
+    "author": "https://github.com/felicegattuso",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/felicegattuso/timedropper/issues"
+    },
+    "homepage": "https://github.com/felicegattuso/timedropper#readme"
+}
